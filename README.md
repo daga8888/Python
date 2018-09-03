@@ -1,2 +1,4 @@
 # Python
-Do poszerzania umiejętności i wiadomości 
+'''
+Do poszerzania umiejętności i wiedzy     
+'''
