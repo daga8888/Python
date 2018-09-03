@@ -14,3 +14,7 @@ plt.ylabel('$OY$')
 plt.title('Wykres funkcji $x^3-2x^2+1$')
 plt.grid(True)
 plt.show()
+'''
+1. fajna stronka: https://www.python.org/
+2. ogarnąć Django
+'''
